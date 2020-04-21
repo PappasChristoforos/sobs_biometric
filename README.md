@@ -1,5 +1,8 @@
+# Boreal tree growth reconstruction with a biometric approach.
+
 Codes and Data from:
-##Pappas et al., (under review for Agricultural and Forest Meteorology), *Aboveground tree growth is a minor and decoupled fraction of boreal forest carbon input.*
+
+## Pappas et al., (under review for Agricultural and Forest Meteorology), *Aboveground tree growth is a minor and decoupled fraction of boreal forest carbon input.*
 
 Folder **Code** includes the R scripts for reconstructing aboveground tree live biomass (AGB) and aboveground tree live biomass increments (AGBi) using (1) tree ring widths collected with a C-oriented sampling design and (2) species allometry relating stem diameter with biomass in different tree carbon pools
 
