@@ -1,0 +1,34 @@
+ID,Species,DBH [cm],D [m],a [deg],SOC,# of rings,Aprox. Age of Tree at BH
+B01,Black spruce,6.8,4.8,47.2,Domin,100,100
+B02,Larch,14.5,3.0,70.5,Domin,108,108
+B03,Black spruce,5.8,2.1,60.1,Co-Domin,89,89
+B04,Black spruce,6.3,2.3,62.7,Co-Domin,93,93
+B05,Black spruce,6.6,2.4,62.2,Co-Domin,110,110
+B06,Black spruce,5.7,2.8,58.9,Sub-Domin,82,85
+B07,Black spruce,9.9,4.3,63.2,Domin,117,117
+B08,Black spruce,6.5,3.8,53.0,Sub-Domin,102,102
+B09,Black spruce,6.2,4.5,43.8,Co-Domin,104,104
+B10,Black spruce,6.5,4.9,43.9,Co-Domin,92,94
+B11,Black spruce,10.0,3.2,65.9,Domin,95,96
+B12,Black spruce,5.7,3.2,54.6,Co-Domin,83,83
+B13,Black spruce,7.1,4.4,53.4,Co-Domin,79,79
+B14,Black spruce,5.1,4.3,38.2,Sub-Domin,59,71
+B15,Larch,14.7,4.5,62.3,Domin,119,119
+B16,Black spruce,5.8,4.5,44.6,Sub-Domin,87,87
+B17,Black spruce,6.8,1.4,70.4,Domin,87,87
+B18,Black spruce,7.3,4.7,45.7,Sub-Domin,79,79
+B19,Black spruce,9.5,4.9,52.8,Domin,109,109
+B20,Black spruce,6.6,3.5,50.3,Co-Domin,83,83
+B21,Larch,10.5,3.7,58.9,Domin,100,100
+B22,Black spruce,8.7,4.3,56.4,Domin,90,90
+B23,Black spruce,6.8,4.1,48.8,Co-Domin,82,89
+B24,Black spruce,7.4,3.4,48.1,Domin,107,107
+B25,Black spruce,7.0,4.4,47.2,Domin,75,75
+B26,Black spruce,7.7,5.0,45.1,Domin,85,85
+B27,Black spruce,6.6,4.3,52.9,Domin,66,66
+B28,Black spruce,8.1,4.0,56.5,Domin,110,110
+B29,Black spruce,6.4,4.8,47.7,Co-Domin,95,97
+B30,Black spruce,7.5,4.9,50.6,Co-Domin,103,103
+B31,Black spruce,8.1,2.9,64.7,Domin,82,82
+B32,Black spruce,5.9,3.5,50.5,Sub-Domin,85,85
+B33,Black spruce,7.7,3.9,56.1,Domin,91,100
