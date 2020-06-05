@@ -2,7 +2,7 @@
 
 Codes and Data from:
 
-## Pappas et al., (under review for Agricultural and Forest Meteorology), *Aboveground tree growth is a minor and decoupled fraction of boreal forest carbon input.*
+## Pappas et al., (2020), *Aboveground tree growth is a minor and decoupled fraction of boreal forest carbon input.* Agricultural and Forest Meteorology. https://doi.org/10.1016/j.agrformet.2020.108030
 
 Folder **Code** includes the R scripts for reconstructing aboveground tree live biomass (AGB) and aboveground tree live biomass increments (AGBi) using (1) tree ring widths collected with a C-oriented sampling design and (2) species allometry relating stem diameter with biomass in different tree carbon pools
 
